@@ -434,6 +434,10 @@ FodyWeavers.xsd
 dist/
 publish/
 
+# 本地发布脚本（含本地路径配置，不入库）
+build-setup.bat
+publish.ps1
+
 # 安装包脚本与本地文档（不提交）
 installer/
 快速使用指南.html
